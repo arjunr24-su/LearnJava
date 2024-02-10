@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="Java" unique_id="1" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1707464743" ts_lastsave="1707465705">
+    <rich_text>working of java :
+running:
+	(A)compilation:
+						SourceCode.java--&gt;complier(JDK)-&gt;bytecode.class
+	(B)execution:
+						bytecode.class → JVM → Assembly code
+						
+
+
+
+
+JVM : Java Virtual Machine
+JRE : Java Runtime Environment
+JDK: Java Development Kit
+
+
+
+
+class:
+		big entity where lot of functions are placed....first to be executed
+
+
+
+
+
+functions/methods :  they are told to perform tasks
+
+void main(){   → is a function , void is empty
+}</rich_text>
+    <encoded_png char_offset="164" justification="left" link="" sha256sum="f34334cfaba4e410a6b90e4accea6c3e7884455ca11f1d01c83de4ced2c4c5fb"/>
+  </node>
+</cherrytree>

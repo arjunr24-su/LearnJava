@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node name="syntaxs datatypes etc.." unique_id="2" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1707465705" ts_lastsave="1707499830">
+    <rich_text>System.out.print/println/print("\n")  → for printing 
+
+
+Data types :
+		1.primitive	:  basic data type , comes ready
+							this is for 64-bit memory allocation
+							1. byte - 1 byte
+							2.short
+							3.char  - 2 bytes
+							4.boolean 1 -byte
+							5.int -4 bytes
+							6.long - 8 bytes
+							7.float - 4 bytes
+							8.double - 8 bytes
+							
+							
+									
+							
+							
+		2.Non-primitive	 : we can create, customizable
+									Strings
+									Arrays
+									Class
+									Object
+									Interface
+									
+									
+									
+input
+
+import java.util.scanner
+Scanner sc = new Scanner(Systerm.in);
+String name = sc.next("Type Your text here"); → this is for one word answer
+sout(name);
+
+
+
+
+Scanner sc = new Scanner(System.in);
+String name =  sc.nextLine(); silmilarly nextInt()  nextFloat() nextDouble() nextLong()
+Sout(name);
+
+
+
+</rich_text>
+    <rich_text foreground="#cf8e6d">int </rich_text>
+    <rich_text>a =sc.nextInt();
+</rich_text>
+    <rich_text foreground="#cf8e6d">int </rich_text>
+    <rich_text>b =sc.nextInt();
+    </rich_text>
+    <rich_text foreground="#cf8e6d">int </rich_text>
+    <rich_text>sum1 = (a+b)  ;
+    System.</rich_text>
+    <rich_text style="italic" foreground="#c77dbb">out</rich_text>
+    <rich_text>.println(sum1);
+</rich_text>
+  </node>
+</cherrytree>
