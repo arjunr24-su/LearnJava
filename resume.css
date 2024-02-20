@@ -1,0 +1,71 @@
+
+h1{
+    font-weight: 700;
+    text-align:center;
+}
+#pdetails{
+    font-weight : 600;
+    font-family :'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    text-transform: none;
+
+}
+.skills{
+    list-style-type:disc; /* Changes the bullet points to circles */
+    color: rgb(0, 0, 0); /* Changes the text color to red */
+    padding-left: 20px; /* Adds some padding to the left of the list */
+    line-height: 1.5; /* Changes the line height */
+    
+    
+}
+#myphoto{
+    align-items:end;
+    border: 1px;
+    padding:1px;
+    position: absolute;
+    top:8%;
+    left:80%;
+    border-radius: 50 %;
+
+}
+body{
+    justify-content:center;
+    padding: 100px;
+    position: absolute;
+    top: 10vw; 
+    left: 3.5vw; 
+    right: 2.5vw; 
+    border: 1vw solid black;
+    font-family :'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight : 600;
+    text-decoration: none;
+    text-transform: none;
+    text-align: left;
+    align-items:start;
+    
+}
+#stack{
+    position:absolute;
+    top:75%;
+    left:100%
+:}
+#cc{
+    position:absolute;
+    top:75%;
+    left:28%;
+
+}
+#hrank{
+    position:absolute;
+    top:77%;
+    left:25%;
+  
+}
+#pre{
+    text-transform: capitalize;
+    text weight :500;}
+
+
+
+
+
